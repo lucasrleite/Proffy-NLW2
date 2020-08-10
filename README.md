@@ -34,21 +34,21 @@ A ideia do projeto foi utilizar as principais tecnologias presentes no mercado, 
 <img src="./readme/Home.png"  >
 <br>
 <br>
-<p>Formulario de cadastro de professor: </p>
+<h6>Formulario de cadastro de professor: </h6>
 <img src="./readme/form.png"  width="400" height="500">
 <br>
 <br>
-<p>Listagem de professores: </p>
+<h6>Listagem de professores: </h6>
 <img src="./readme/design-web.png"  width="400" height="500">
 <br>
 <br>
 <h1>Mobile</h1>
-<p>Home Mobile: </p>
-<img src="./readme/Home-mobile.png"  width="400" height="500">
+<h6>Home Mobile: </h6>
+<img src="./readme/Home-mobile.png"  width="200" height="400">
 <br>
 <br>
-<p>Listagem de professores: </p>
-<img src="./readme/design-mobile.png"  width="400" height="500">
+<h6>Listagem de professores: </h6>
+<img src="./readme/design-mobile.png"  width="200" height="400">
 <br>
 <br>
 </div>
