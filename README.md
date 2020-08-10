@@ -31,11 +31,11 @@ A ideia do projeto foi utilizar as principais tecnologias presentes no mercado, 
 <br>
 <h6>Home Desktop: </h6>
 
-<img src="./readme/Home.png"  width="1095" height="264">
+<img src="./readme/Home.png"  >
 <br>
 <br>
 <p>Formulario de cadastro de professor: </p>
-<img src="./readme/Formulario.png"  width="1040" height="1374">
+<img src="./readme/form.png"  width="1040" height="1374">
 <br>
 <br>
 <p>Formulario de cadastro de professor: </p>
