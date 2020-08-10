@@ -241,7 +241,7 @@ Feito em 2020.
   
 Feito com muito esforço e dedicação:  [Lucas Leite](https://github.com/lcsxz) :brazil:.
 
-Este projeto conta com uma licença [MIT license](https://github.com/gabrielpulga/nlw2-proffy/blob/master/LICENSE).
+Este projeto conta com uma licença [MIT license](https://github.com/lcsxz/Proffy-NLW2/blob/master/LICENSE).
 
   
 Me de uma ⭐️ se esse projeto te ajudou!
