@@ -3,6 +3,7 @@
 
 Proffy - Next Level Week 2.0
 
+<img src="./readme/nlw.png">
 
 
  Este projeto foi desenvolvido na Next Level Week 2.0 , oferecida pela <a href="https://rocketseat.com.br/">RocketSeat</a> e lecionada pelo <a href="https://github.com/diego3g">Diego Fernandes</a>.
