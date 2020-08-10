@@ -3,6 +3,10 @@
 
 <H1>Proffy - Next Level Week 2.0</h1>
 
+ <a aria-label="Completed" href="https://nextlevelweek.com/episodios/omnistack/edicao/2">
+    <img src="https://img.shields.io/badge/Proffy-NLW 2.0-8257E5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
+  </a>
+
 <img src="./readme/nlw.png"  width="144" height="126">
 
  <strong>Este projeto foi desenvolvido na Next Level Week 2.0 , oferecida pela <a href="https://rocketseat.com.br/">RocketSeat</a> e lecionada pelo <a href="https://github.com/diego3g">Diego Fernandes</a>.<strong>
@@ -81,13 +85,13 @@ Este projeto foi feito utilizando as seguintes tecnologias.
 
   
 
-### :computer: Downloading project
+### :computer: Faça o download do Projeto:
 
   
 
 ```bash
 
-# Clone repository into your machine
+# Clone o repositorio na sua maquina
 
 $ git clone https://github.com/gabrielpulga/nlw2-proffy.git
 
@@ -95,7 +99,7 @@ $ git clone https://github.com/gabrielpulga/nlw2-proffy.git
 
   
 
-### 💻 Running project on a web browser
+### 💻 Executando o projeto no seu browser:
 
   
 
@@ -105,27 +109,34 @@ $ git clone https://github.com/gabrielpulga/nlw2-proffy.git
 
 ```bash
 
-# Go to project's web folder
+# Vá até a pagina do projeto
 
 $ cd web
 
   
 
-# Install dependencies
+# Instale os pacotes
 
-$ yarn install or npm install
+Yarn
+$ yarn install 
 
+NPM
+$ npm install
   
 
-# Run application
+# Executando aplicações
 
-$ yarn start or npm run start
+
+Yarn
+$ yarn start 
+
+NPM
+$ npm run start
 
 ```
 
   
-
-Front-end UX available at http://localhost:3000/.
+Endereço do front-end: http://localhost:3000/.
 
   
 
@@ -135,106 +146,103 @@ Front-end UX available at http://localhost:3000/.
 
 ```bash
 
-# Go to project's server folder
+# Vá até a pagina do projeto
 
 $ cd server
 
   
 
-# Install dependencies
+# Instale os pacotes
 
-$ yarn install or npm install
+Yarn
+$ yarn install 
 
+NPM
+$ npm install
   
 
-# Run application
+# Executando aplicações
 
-$ yarn start or npm run start
 
-  
+Yarn
+$ yarn start 
 
-# Make migrations
+NPM
+$ npm run start
 
+
+# Faça as migrações(Criação do banco)
+
+Yarn
 $ yarn knex:migrate
+
+NPM
+$ npm run knex:migrate
+
+
 
 ```
 
   
 
-API available to be tested on http://localhost:3333/.
+API disponivel para ser testada em : http://localhost:3333/.
 
   
 
-### 📱 Running project on mobile
+### 📱 Executando o Mobile
 
   
 
-To run the project on mobile you need a cellphone with the [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) app instaled or an android/ios emulator.
+Para executar(Emular) este projeto é necessario o aplicativo do Expo: [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) .
 
 <br />
 
   
 
 ```bash
-
-# Go to project's mobile folder
-
+# Vá até a pagina do projeto
 $ cd mobile/
 
+ # Instale os pacotes
+
+Yarn
+$ yarn install 
+
+NPM
+$ npm install
   
 
-# Install dependencies
+# Executando aplicações
 
-$ yarn install or npm install
 
-  
+Yarn
+$ yarn start 
 
-# Run application
+NPM
+$ npm run start
 
-$ yarn start or npm run start
-
-```
-
-  
-
-<!--You can read the resulting QRCode with [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) or through an emulator.-->
-
-  
-
-# :memo: ToDo
 
   
 
-- Splash screen
-
-- User Login -> Remember me
-
-- User Logout
-
-- Succeed Screen
-
-- User auth -> Web and Mobile
-
-- Password recovery
-
-- Teacher profile
-
-- Deploy
+<!--Você pode ler o QRCode with [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) or through an emulator.-->
 
   
 
-# :closed_book: License
-
   
 
-Released in 2020.
+# :closed_book: Licença
+
+
+Feito em 2020.
 
   
+Feito com muito esforço e dedicação:  [Lucas Leite](https://github.com/lcsxz) :brazil:.
 
-Made with passion by [Gabriel Pulga](https://github.com/gabrielpulga) 🚀.
-
-This project is under the [MIT license](https://github.com/gabrielpulga/nlw2-proffy/blob/master/LICENSE).
+Este projeto conta com uma licença [MIT license](https://github.com/gabrielpulga/nlw2-proffy/blob/master/LICENSE).
 
   
+Me de uma ⭐️ se esse projeto te ajudou!
 
-Give it a ⭐️ if this project helped you!
+
+<img src="./readme/nlw2.png" >
+
