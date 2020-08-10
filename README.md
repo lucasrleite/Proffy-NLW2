@@ -96,7 +96,7 @@ Este projeto foi feito utilizando as seguintes tecnologias.
 
 # Clone o repositorio na sua maquina
 
-$ git clone https://github.com/gabrielpulga/nlw2-proffy.git
+$ git clone https://github.com/lcsxz/Proffy-NLW2
 
 ```
 
