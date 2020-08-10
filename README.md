@@ -23,6 +23,27 @@
 A ideia do projeto foi utilizar as principais tecnologias presentes no mercado, para ajudar os alunos e professores, assim dando a eles uma plataforma para que os professores estimulassem valores pelas aulas, matéria na qual é especializado. Após isso, o aluno mediante ao aplicativo entraria em contato com o professor que for da sua necessidade comprando a aula.
 
   
+# :art: Design do projeto: 
+
+<div align="center">
+<h1>DESKTOP:</H1>
+<br>
+<br>
+<h6>Home Desktop: </h6>
+
+<img src="./readme/Home.png"  width="1095" height="264">
+<br>
+<br>
+<p>Formulario de cadastro de professor: </p>
+<img src="./readme/Formulario.png"  width="1040" height="1374">
+<br>
+<br>
+<p>Formulario de cadastro de professor: </p>
+<img src="./readme/preview-web.png"  width="1040" height="1374">
+<br>
+<br>
+</div>
+
 
 #  </> Tecnologias:
 
@@ -46,7 +67,7 @@ Este projeto foi feito utilizando as seguintes tecnologias.
 </ul>
 
   
-# :art: Design do projeto: 
+
 # :construction_worker: Como executar o projeto:
 
   
