@@ -227,7 +227,7 @@ $ npm run start
 <!--Você pode ler o QRCode with [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) or through an emulator.-->
 
   
-
+```
   
 
 # :closed_book: Licença
