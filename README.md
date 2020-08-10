@@ -2,12 +2,15 @@
 <div  align="center">
 
 <H1>Proffy - Next Level Week 2.0</h1>
+<br>
+ 
 
- <a aria-label="Completed" href="https://nextlevelweek.com/episodios/omnistack/edicao/2">
+<img src="./readme/nlw.png"  width="144" height="126">
+<br>
+<a aria-label="Completed" href="https://nextlevelweek.com/episodios/omnistack/edicao/2">
     <img src="https://img.shields.io/badge/Proffy-NLW 2.0-8257E5?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
   </a>
-<br>
-<img src="./readme/nlw.png"  width="144" height="126">
+  <br>
 
  <strong>Este projeto foi desenvolvido na Next Level Week 2.0 , oferecida pela <a href="https://rocketseat.com.br/">RocketSeat</a> e lecionada pelo <a href="https://github.com/diego3g">Diego Fernandes</a>.<strong>
 <br>
