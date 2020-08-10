@@ -1,12 +1,12 @@
 
 <div  align="center">
 
-<H1Proffy - Next Level Week 2.0
+<H1>Proffy - Next Level Week 2.0</h1>
 
 <img src="./readme/nlw.png"  width="144" height="126">
 
 
- Este projeto foi desenvolvido na Next Level Week 2.0 , oferecida pela <a href="https://rocketseat.com.br/">RocketSeat</a> e lecionada pelo <a href="https://github.com/diego3g">Diego Fernandes</a>.
+ <strong>Este projeto foi desenvolvido na Next Level Week 2.0 , oferecida pela <a href="https://rocketseat.com.br/">RocketSeat</a> e lecionada pelo <a href="https://github.com/diego3g">Diego Fernandes</a>.<strong>
 
  <img src="./readme/logo.png" >
  
