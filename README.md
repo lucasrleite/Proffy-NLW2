@@ -10,7 +10,7 @@
 <br>
  <strong>Este projeto foi desenvolvido na Next Level Week 2.0 , oferecida pela <a href="https://rocketseat.com.br/">RocketSeat</a> e lecionada pelo <a href="https://github.com/diego3g">Diego Fernandes</a>.<strong>
 
- <img src="./readme/proffy2.png" >
+ <img src="./readme/proffy2.png"  width="399" height="248" >
  
 :rocket: *Projeto feito para conectar alunos a professores.*
 
